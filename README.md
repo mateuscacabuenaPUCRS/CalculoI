@@ -1,2 +1,6 @@
-# CalculoI
-Disciplina centrada em operações matemáticas de Limites, Derivadas e Aplicações visando ensinar conhecimento lógico e matemático.
+# Cálculo I
+
+-  Professor: Pedro Sica
+-  Código: 95300-04
+-  Semestre: 2022/1
+-  Nota: 7.8
